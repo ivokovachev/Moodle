@@ -1,0 +1,51 @@
+{
+  "nikolay.tomitov": {
+    "isAdmin": true,
+    "username": "nikolay.tomitov",
+    "password": "nikithebest",
+    "firstName": "Nikolay",
+    "surname": "Tomitov",
+    "address": {
+      "country": "Bulgaria"
+    },
+    "isOnline": false,
+    "courses": [
+      {
+        "title": "Java2EE",
+        "start": {
+          "year": 2019,
+          "month": 2,
+          "day": 18
+        },
+        "students": {},
+        "sections": {}
+      }
+    ]
+  },
+  "deniz.mehmed": {
+    "isAdmin": false,
+    "username": "deniz.mehmed",
+    "password": "deni123",
+    "firstName": "Deniz",
+    "surname": "Mehmed",
+    "address": {
+      "country": "Bulgaria",
+      "city": "Varna"
+    },
+    "isOnline": false,
+    "courses": []
+  },
+  "hristo": {
+    "isAdmin": false,
+    "username": "hristo",
+    "password": "123456",
+    "firstName": "Hristo",
+    "surname": "Penev",
+    "address": {
+      "country": "",
+      "city": "Varna"
+    },
+    "isOnline": false,
+    "courses": []
+  }
+}

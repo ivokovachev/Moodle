@@ -1,0 +1,66 @@
+[33mcommit 1f8f3084e29371107b9bbcd89b997671541d3943[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Deniz <denizmehmed97@gmail.com>
+Date:   Mon Jan 28 21:43:03 2019 +0200
+
+    Section class creating
+
+[33mcommit 73b2dbd88509a14d440834ae4fd6d49fd234897c[m
+Author: Deniz <denizmehmed97@gmail.com>
+Date:   Mon Jan 28 21:01:47 2019 +0200
+
+    Merge problems hopefully resolved
+
+[33mcommit cc5b3e9025724b834be9081bb3b9eaac8035276b[m
+Merge: b896380 979e4f8
+Author: Deniz <denizmehmed97@gmail.com>
+Date:   Mon Jan 28 20:57:54 2019 +0200
+
+    User, course, helper class, exceptions
+
+[33mcommit b896380f602d4bb799ad54662b4c25b39c8e9914[m
+Author: Deniz <denizmehmed97@gmail.com>
+Date:   Mon Jan 28 20:51:27 2019 +0200
+
+    Creating course, user, a few exceptions, helper class
+
+[33mcommit 979e4f8a26260b594ec94cb94c22bdb7cffd3039[m
+Author: ivo <ivokovachev96@abv.bg>
+Date:   Mon Jan 28 20:21:42 2019 +0200
+
+    System package - correct
+
+[33mcommit dab422a7288d0fe1cdf8557b28e5dcf7a6dde882[m
+Author: ivo <ivokovachev96@abv.bg>
+Date:   Mon Jan 28 19:38:35 2019 +0200
+
+    System package
+
+[33mcommit 6b3eb6cdbc28afe5410f291f0631bb83804b4d32[m
+Author: Deniz <denizmehmed97@gmail.com>
+Date:   Mon Jan 28 15:06:54 2019 +0200
+
+    class Course
+
+[33mcommit 457a9c5a88e3ec53c3dfba69d59da31a183ca307[m
+Author: Deniz <denizmehmed97@gmail.com>
+Date:   Mon Jan 28 15:04:54 2019 +0200
+
+    packages
+
+[33mcommit 48b256892dcecc82e71d7fb54ec90da4e07cac9c[m
+Author: Deniz <denizmehmed97@gmail.com>
+Date:   Mon Jan 28 13:46:59 2019 +0200
+
+    zdravei
+
+[33mcommit e471f8d2cd52f47ee1015b8c86501a084dca3d65[m
+Author: ivo <ivokovachev96@abv.bg>
+Date:   Mon Jan 28 13:44:44 2019 +0200
+
+    second commit
+
+[33mcommit 413e15b19aefb7062339c98ae5e891d4a912c1fe[m
+Author: Deniz A. Mehmed <denizmehmed97@gmail.com>
+Date:   Mon Jan 28 13:32:30 2019 +0200
+
+    Initial commit
